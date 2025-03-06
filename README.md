@@ -1,3 +1,4 @@
+<h2>Hi 👋</h2>
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
