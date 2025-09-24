@@ -5,6 +5,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,spark,airflow,flask,django,postgres,docker,git" />
+    <img src="https://skillicons.dev/icons?i=py,flask,django,fastapi,postgres,docker,git" />
   </a>
 </p>
